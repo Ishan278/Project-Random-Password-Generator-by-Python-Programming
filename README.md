@@ -1,0 +1,2 @@
+# Project-Random-Password-Generator-by-Python-Programming
+Features  Generate strong random passwords  Choose password length (user-defined)  Option to include:  Uppercase letters  Lowercase letters  Numbers  Special characters   Prevents weak or guessable patterns  Easy to use and beginner-friendly script Weak passwords are a major security risk. This generator creates unique and complex passwords.
